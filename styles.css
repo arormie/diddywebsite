@@ -9,8 +9,11 @@ img {
     height:100px;
     width:100px;
 }
+p {
+    color:darkblue;
+}
 header {
-    background-color: lightorange;
+    background-color: yellow;
     color: brown;
     padding: 1rem; 
     text-align: center;
